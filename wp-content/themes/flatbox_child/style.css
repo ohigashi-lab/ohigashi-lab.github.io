@@ -1,0 +1,36 @@
+/*
+Template:flatbox
+Theme Name:flatbox_child
+Theme URI:http://localhost
+Description:flatbox_child
+Author:OCSL_NW
+Version:0.9
+*/
+
+@import url('https://ohigashi-lab.github.io/wp-content/themes/flatbox/style.css');
+
+.custom_header {
+	padding-top: 18px;
+	width:535px;
+	margin-right: auto;
+	margin-left : auto;
+	height: 100px;
+
+}
+
+.custom_header > * {
+	float: left;
+}
+
+h1.custom_title {
+	font-size: 35px;
+	margin-bottom: 0px;
+}
+h2.tagline {
+	font-size: 17px;
+	margin-bottom: 0px;
+}
+
+.main-navigation li{
+	line-height: 30px;
+}
