@@ -1,5 +1,3 @@
 User-agent: *
-Allow:/
-Disallow: /~*
-Disallow: /OCSLWIKI
-Disallow: /VPNGUI
+Allow: /
+Sitemap: https://ohigashi-lab.github.io/sitemap.txt
